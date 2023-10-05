@@ -1,1 +1,1 @@
-web: heroku-php-nginx -C rewrite.conf public/
+web: heroku-php-nginx -C rewrite.conf www/
